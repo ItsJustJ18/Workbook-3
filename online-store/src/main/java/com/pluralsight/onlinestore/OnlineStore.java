@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class OnlineStore {
- ArrayList<Storage> = theirItems
+ ArrayList<Storage>
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
 
